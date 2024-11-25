@@ -1,0 +1,14 @@
+hello, world!
+
+hello, Maxin!
+Life is really strange!
+
+hello, Connor!
+Are you from Detroit?
+
+hello, V!
+<<<<<<< HEAD
+Oh, no cyberpunk? :(
+=======
+It's cyberpunk game!
+>>>>>>> fourth_branch
